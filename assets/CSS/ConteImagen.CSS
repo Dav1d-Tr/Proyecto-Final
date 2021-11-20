@@ -1,0 +1,44 @@
+.masthead {
+    padding-top: 12.7rem;
+    padding-bottom: 12.7rem;
+    text-align: center;
+    background-image: url(../IMG/R.jpg);
+    background-repeat: no-repeat;
+    background-attachment: scroll;
+    background-position: center center;
+    background-size: cover;
+  }
+  .header_Foto{
+    width: 100%;
+    margin: 0 auto;
+    display: flex; 
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    padding-top: 50px;
+  }
+  .header__image{
+    height: 200px;
+    width: 200px;
+    border-radius: 50%;
+    border: 6px solid navy;
+    padding: 5px;
+  }
+  .header__image img{
+    border-radius: 50%;
+    border: 3px solid azure;
+    width: 100%;
+    height: 100%;
+  }
+  h1{
+    color: white;
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    justify-content: center;
+    align-items: center;
+  }
+  .Dco{
+    padding: 0 0;
+    background-color: cornflowerblue;
+  }
+  
